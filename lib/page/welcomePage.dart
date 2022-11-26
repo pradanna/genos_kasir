@@ -6,22 +6,7 @@ import 'package:genos_kasir/genosLib/genText.dart';
 import 'package:get/get.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 
-// class WelcomePage extends StatelessWidget {
-//   const WelcomePage({Key? key}) : super(key: key);
-//
-//   @override
-//   Widget build(BuildContext context) {
-//     if (kDebugMode) {
-//       print("test");
-//     }
-//
-//     return GenPage(
-//       body: Container(
-//         child: Center(child: GenText("hei test")),
-//       ),
-//     );
-//   }
-// }
+
 
 
 class WelcomePage extends StatefulWidget {

@@ -8,7 +8,7 @@ class GenColor {
   static const starColor = Color.fromRGBO(	255, 191, 0, 1);
   static const starColorUnselect = Color.fromRGBO(	255, 191, 0, .3);
   static const shimmer = Color.fromARGB(15, 0, 0, 0);
-  static const backGroundColor = Color.fromARGB(1, 12,43,56);
+  static const backGroundColor = Color(0xE6E7F0);
   static const shadowLigth = Color.fromRGBO(0,0, 0, .1);
   static const shadowLigth2 = Color.fromRGBO(0,0, 0, .05);
   static const shadowMed = Color.fromRGBO(0,0, 0, .15);
